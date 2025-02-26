@@ -1,0 +1,19 @@
+Our Approach in the Robogames Competition
+
+In this competition, we designed and implemented an intelligent search and navigation algorithm for solving a 20×20 maze efficiently. Our strategy was divided into two key phases: maze exploration and final navigation.
+
+Phase 1: Maze Exploration
+To fully understand the maze layout, we developed a search algorithm using the Depth-First Search (DFS) technique. This approach allowed our robot to systematically traverse the entire grid, ensuring that every cell was explored. During this process, we gathered crucial data, including:
+
+Wall Information: Each cell contained four walls, and we mapped whether a wall was present in each direction (North, East, South, and West).
+Cell Cost: The cost associated with each cell was determined based on its color, which played a significant role in optimizing the final route.
+By the end of this phase, our robot had successfully constructed a complete map of the maze, making it ready for the final navigation.
+
+Phase 2: Final Run & Survivor Rescue
+Once we had a detailed map of the maze, we implemented Dijkstra’s algorithm for the final run. The goal was to navigate to all survivor locations (green agents) in the most efficient way and return to the starting position.
+
+Our approach involved:
+
+Finding the Optimal Path: Using Dijkstra’s algorithm, we calculated the shortest possible route between the start position and each survivor.
+Sequential Navigation: The robot systematically moved to each survivor in an optimized order, ensuring minimal travel cost.
+Returning to the Start: After collecting all survivors, the robot found the shortest route back to the starting position, completing the mission successfully.
