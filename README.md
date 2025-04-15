@@ -31,7 +31,7 @@ Traverse a grid maze to rescue 3 survivors (green squares) using the most effici
 <p align="center">
   <img src="Assets/FireZone.jpg" alt="IESL Robogames 2024" width="500"/>
 </p>
-**Tech Stack:**  
+Tech Stack:
 - Python  
 - Grid-based maze mapping  
 - Dijkstra’s Algorithm for minimum-cost pathfinding
@@ -51,6 +51,11 @@ Traverse a grid maze to rescue 3 survivors (green squares) using the most effici
 ---
 
 ### 🔴 Grand Finals – Real-Time Color Detection with Kuboki Robot
+**Objective:**  
+Traverse a grid maze to rescue 3 survivors (green squares) using the most efficient path and return to the starting point.
+<p align="center">
+  <img src="Assets/Kuboki.jpg" alt="IESL Robogames 2024" width="500"/>
+</p>
 
 **Objective:**  
 Detect colored boxes using OpenCV and push them into matching target zones with a robotic arm.
@@ -67,4 +72,8 @@ Detect colored boxes using OpenCV and push them into matching target zones with 
 - Real-time object tracking  
 - Robotic arm manipulation & push mechanics  
 - Seamless hardware-software communication via GPIO
-
+**Objective:**  
+Traverse a grid maze to rescue 3 survivors (green squares) using the most efficient path and return to the starting point.
+<p align="center">
+  <img src="Assets/Team.jpg" alt="IESL Robogames 2024" width="500"/>
+</p>
