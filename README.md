@@ -52,7 +52,7 @@ Tech Stack:
 
 ### 🔴 Grand Finals – Real-Time Color Detection with Kuboki Robot
 **Objective:**  
-Traverse a grid maze to rescue 3 survivors (green squares) using the most efficient path and return to the starting point.
+Developed a real-time color detection system (OpenCV) for a Kuboki robot, enabling it to identify colored boxes and push them into target zones using its robotic arm—all controlled via RealVNC on a Raspberry Pi 5.
 <p align="center">
   <img src="Assets/kuboki.jpg" alt="IESL Robogames 2024" width="500"/>
 </p>
