@@ -57,8 +57,7 @@ Developed a real-time color detection system (OpenCV) for a Kuboki robot, enabli
   <img src="Assets/kuboki.jpg" alt="IESL Robogames 2024" width="500"/>
 </p>
 
-**Objective:**  
-Detect colored boxes using OpenCV and push them into matching target zones with a robotic arm.
+ 
 
 **Tech Stack:**  
 - Raspberry Pi 5  
