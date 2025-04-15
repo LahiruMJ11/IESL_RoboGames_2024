@@ -54,7 +54,7 @@ Tech Stack:
 **Objective:**  
 Traverse a grid maze to rescue 3 survivors (green squares) using the most efficient path and return to the starting point.
 <p align="center">
-  <img src="Assets/Kuboki.jpg" alt="IESL Robogames 2024" width="500"/>
+  <img src="Assets/kuboki.jpg" alt="IESL Robogames 2024" width="500"/>
 </p>
 
 **Objective:**  
