@@ -71,9 +71,7 @@ Detect colored boxes using OpenCV and push them into matching target zones with 
 - HSV-based color segmentation  
 - Real-time object tracking  
 - Robotic arm manipulation & push mechanics  
-- Seamless hardware-software communication via GPIO
-**Objective:**  
-Traverse a grid maze to rescue 3 survivors (green squares) using the most efficient path and return to the starting point.
+
 <p align="center">
   <img src="Assets/Team.jpg" alt="IESL Robogames 2024" width="500"/>
 </p>
