@@ -1,7 +1,7 @@
 
 #  IESL Robogames 2024 – 1st Runner Up 🏆
 
-A robotics and AI adventure through maze navigation, path planning, and real-time color detection – this repo showcases our team's work that secured **1st Runner Up** at the **IESL Robogames 2024**. From virtual simulations to real-world robots, we tackled every challenge head-on across three intense rounds.
+A robotics adventure through maze navigation, path planning, and real-time color detection – this repo showcases our team's work that secured **1st Runner Up** at the **IESL Robogames 2024**. From virtual simulations to real-world robots, we tackled every challenge head-on across three intense rounds.
 
 ---
 
